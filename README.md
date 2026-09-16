@@ -6,8 +6,8 @@
 
 ## 效果
 
-![与 Haley 的对话](<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/f2c11f52-aa4e-4dee-aea8-b3fc88217260" />
-)
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/f2c11f52-aa4e-4dee-aea8-b3fc88217260" />
+
 <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/3ed5f33c-1617-4c74-bada-5bbaab392fb3" />
 
 
