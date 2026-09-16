@@ -6,10 +6,9 @@
 
 ## 效果
 
-<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/f2c11f52-aa4e-4dee-aea8-b3fc88217260" />
-
 <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/3ed5f33c-1617-4c74-bada-5bbaab392fb3" />
 
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/83e091dc-c1e7-4f86-b053-79f865418da9" />
 
 
 ## 依赖
